@@ -28,18 +28,16 @@
               }
             ],
             "styles": [
-  "src/styles.scss",
+  "src/assets/css/styles.css",
   "node_modules/bootstrap/dist/css/bootstrap.min.css",
   "node_modules/@fortawesome/fontawesome-free/css/all.min.css",
-  "src/assets/css/styles.css"
+  "src/styles.scss"
+],
+"scripts": [
+  "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
 ],
 
-            "scripts": [
-  "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
-  "src/assets/js/scripts.js"
-],
-
-            "server": "src/main.server.ts",
+           "server": "src/main.server.ts",
             "outputMode": "server",
             "ssr": {
               "entry": "src/server.ts"
@@ -94,10 +92,6 @@
                 "glob": "**/*",
                 "input": "public"
               }
-            ],
-            "styles": [
-              "src/styles.scss",
-              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ]
           }
         }

@@ -1,11 +1,17 @@
 
 import { Routes } from '@angular/router';
-import { App } from './app';
+import { Ui } from './ui/ui';
+import { Portfolio } from './portfolio/portfolio';
+import { About } from './about/about';
+import { Contact } from './contact/contact';
 
 export const routes: Routes = [
-    { path: '', component: App }, // Esta es la ruta por defecto
-    { path: 'portfolio', component: App }, // Enlaza a la sección de portafolio
-    { path: 'about', component: App }, // Enlaza a la sección de "acerca de"
-    { path: 'contact', component: App }, // Enlaza a la sección de contacto
-    // Puedes agregar más rutas si lo necesitas
+  { path: '', redirectTo: '/ui', pathMatch: 'full' }, // Redirección correcta
+  { path: 'ui', component: Ui }
+  //{ path: 'portfolio', component: Portfolio },
+ // { path: 'about', component: About },
+ // { path: 'contact', component: Contact }
 ];
+
+
+
