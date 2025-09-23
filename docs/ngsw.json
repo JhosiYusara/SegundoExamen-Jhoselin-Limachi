@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1758583899671,
-  "index": "/SegundoExamen-Jhoselin-Limachi/index.csr.html",
+  "timestamp": 1758586654848,
+  "index": "/SegundoExamen-Jhoselin-Limachi/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/SegundoExamen-Jhoselin-Limachi/favicon.ico",
-        "/SegundoExamen-Jhoselin-Limachi/index.csr.html",
+        "/SegundoExamen-Jhoselin-Limachi/index.html",
         "/SegundoExamen-Jhoselin-Limachi/main-FMUQNDSC.js",
         "/SegundoExamen-Jhoselin-Limachi/manifest.webmanifest",
         "/SegundoExamen-Jhoselin-Limachi/scripts-PPDPQHDA.js",
@@ -69,7 +69,7 @@
     "/SegundoExamen-Jhoselin-Limachi/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/SegundoExamen-Jhoselin-Limachi/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/SegundoExamen-Jhoselin-Limachi/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/SegundoExamen-Jhoselin-Limachi/index.csr.html": "0ebb5f8d5c603af1b655e5603882beb7257af318",
+    "/SegundoExamen-Jhoselin-Limachi/index.html": "5faaace86c8d8f3ad9ca332223e85d482a8dc953",
     "/SegundoExamen-Jhoselin-Limachi/main-FMUQNDSC.js": "e083409e0e4779b6f03228734b3b8f31298c8086",
     "/SegundoExamen-Jhoselin-Limachi/manifest.webmanifest": "11e32cc1dfb4b0cfca2ad9cc99616572227f3067",
     "/SegundoExamen-Jhoselin-Limachi/media/fa-brands-400-E3YNADOB.woff2": "6cf201b0c8ccdc9e2ea944de2a1c8a51f8a5383d",
